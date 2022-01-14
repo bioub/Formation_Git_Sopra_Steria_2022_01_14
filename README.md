@@ -18,4 +18,4 @@ La formation git pour Sopra Steria du 14/01/2022
 - Centralized
 - Git flow
 - Github flow
-
+- Gitlab flow
